@@ -1,5 +1,3 @@
-## Hi there
-
 **My Tech Stack**
 
 Languages:
