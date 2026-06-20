@@ -1,7 +1,3 @@
-**GitHub Stats:**
-  
-[![maciejon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maciejon&show_icons=true&theme=dark)](https://github.com/maciejon)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=maciejon&theme=dark&hide_border=true)](https://github.com/maciejon)
 
 **Profile Summary:**
